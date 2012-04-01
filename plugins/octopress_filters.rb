@@ -126,6 +126,28 @@ module OctopressLiquidFilters
     input.titlecase
   end
 
+  def chessgame(input)
+    input =~ /[^\/](?:(?!\/).)*?\./
+    game = $&
+    game.chop!
+    "<script>
+jQuery.getScript('http://chesstempo.com/js/pgnyui.js', function() {
+  jQuery.getScript('http://chesstempo.com/js/pgnviewer.js', function() {
+    new PgnViewer(
+    {
+      boardName: '#{game}',
+      pgnFile: '#{input}',
+      pieceSet: 'merida',
+      pieceSize: 46
+    }
+  );
+  });
+});
+</script>
+<table class='board-moves'><tr><td>
+<div id='#{game}-container' style='margin: 0px auto'></div> <td><div id='#{game}-moves' style='margin: 0px auto'></div> PGN viewer provided by <a href='http://chesstempo.com/'>http://chesstempo.com</a></tr></table>"
+  end
+
 end
 Liquid::Template.register_filter OctopressLiquidFilters
 

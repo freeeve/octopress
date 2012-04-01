@@ -1,0 +1,19 @@
+[Event "FICS rated standard game"]
+[Site "FICS, San Jose, California USA"]
+[Date "2010.11.09"]
+[Time "19:06:19"]
+[Round "-"]
+[White "ratticus"]
+[Black "chryssi"]
+[WhiteElo "1522"]
+[BlackElo "1508"]
+[TimeControl "1200+0"]
+[Mode "ICS"]
+[Result "1-0"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. Nc3 a6 5. O-O d6 6. d3 h6 7. Be3 Ba7 8. Qd2
+Na5 9. Nd5 Nxc4 10. dxc4 c6 11. Bxa7 Rxa7 12. Qe3 c5 13. Qb3 b5 14. cxb5
+Rb7 15. b6 Be6 16. Nc7+ Kf8 17. Nxe6+ fxe6 18. Qxe6 Rxb6 19. b3 Nf6 20. Qf5
+Kf7 21. Rad1 Rf8 22. Nxe5+ Kg8 23. Ng6 Re8 24. e5 Nd7 25. e6 Nf8 26. Qf7+
+Kh7 27. e7 Rxe7 28. Nxe7 Rb7 29. Qg8#
+{Black checkmated} 1-0
