@@ -1,9 +1,6 @@
 ---
 layout: page
-title: "about"
-date: 2012-03-31 21:25
-comments: true
-sharing: true
+title: "About"
 footer: true
 ---
 Wes is a software engineer at Information Analysis, Inc. (IAI) in Fairfax, VA. 

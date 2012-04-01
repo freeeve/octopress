@@ -1,0 +1,18 @@
+[Event "Computer chess game"]
+[Site "RATNEST"]
+[Date "2010.11.20"]
+[Round "-"]
+[White "Crafty-20.14"]
+[Black "Crafty-20.14"]
+[Result "0-1"]
+[TimeControl "40/300"]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 c5 4. Be3 Qa5+ 5. Qd2 Qb6 6. Nc3 Qxb2 7. Rb1 Qa3
+8. Rb3 Qa5 9. Rb5 Qa3 10. Rxc5 Kd8 11. Bc4 b6 12. Rb5 Ba6 13. Rb3 Qd6 14.
+Bxa6 Nxa6 15. Nb5 Qc6 16. Ng5 Ke8 17. Qd3 h6 18. Rc3 Nb4 19. Qe2 Qb7 20.
+Nc7+ Kf8 21. Nxa8 hxg5 22. Qc4 Nc6 23. Bxg5 Qxa8 24. e5 Bh6 25. Rf3 e6 26.
+d5 Nxe5 27. Qb4+ Ke8 28. Re3 Qxd5 29. Qc3 Bxg5 30. Rxe5 Qxg2 31. Rf1 Bf6
+32. Qc8+ Ke7 33. Re3 Qxh2 34. Rd3 Qe5+ 35. Kd1 Qb5 36. Re1 Qb1+ 37. Kd2
+Bg5+ 38. Ree3 Bxe3+ 39. fxe3 Rh2+ 40. Kc3 Qxc2+
+{White resigns} 0-1
+

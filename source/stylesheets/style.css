@@ -1,7 +1,7 @@
 div.ct-nav-buttons img {
   border: 0px;
 }
-div#content, div#main {
+.collapse-sidebar aside.sidebar, div#content, div#main {
   background-color: #2E2E2E;
 }
 body > header {
@@ -143,3 +143,11 @@ pre.command{border:0px;color:#a4a998 !important;box-shadow:#000000 -2px 2px 2px 
 .ct-forum-pgn-moves-and-headers{float:left;}
 .ct-forum-pgn-headers{border:1px solid white;width:280px;padding:3px;font-family:'Baumans','PT Sans';}
 .ct-forum-pgn-moves .ct-board-move-comment{color:#669991;font-family:'Baumans','PT Sans';}
+
+table.board-moves tbody tr td {
+  vertical-align: top;
+}
+
+table.board-moves tbody tr td span.acknowledgement {
+  font-size:14px;
+}

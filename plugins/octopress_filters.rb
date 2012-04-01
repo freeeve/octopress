@@ -145,7 +145,8 @@ jQuery.getScript('http://chesstempo.com/js/pgnyui.js', function() {
 });
 </script>
 <table class='board-moves'><tr><td>
-<div id='#{game}-container' style='margin: 0px auto'></div> <td><div id='#{game}-moves' style='margin: 0px auto'></div> PGN viewer provided by <a href='http://chesstempo.com/'>http://chesstempo.com</a></tr></table>"
+<div id='#{game}-container' style='margin: 0px auto'></div> <td><div id='#{game}-moves' style='margin: 0px auto'></div>
+<span class='acknowledgement'>PGN viewer provided by <a href='http://chesstempo.com/'>http://chesstempo.com</a></span></tr></table>"
   end
 
 end
