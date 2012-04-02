@@ -6,5 +6,4 @@ comments: true
 categories: 
 ---
 Me playing white. I hadn't played chess in a while, so I feel like I bumbled around a lot early on this game. I felt pretty good starting about move 20. 
-<!--more-->
 {{ "/images/wfreeman-chrissyi-11-09-2010.pgn" | chessgame }}

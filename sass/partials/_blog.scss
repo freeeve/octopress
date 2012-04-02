@@ -10,7 +10,7 @@ article {
     h1 {
       margin: 0;
       a { text-decoration: none;
-        &:hover { text-decoration: underline; } }
+        &:hover {  } }
     }
     p {
       font-size: .9em;
@@ -93,19 +93,22 @@ article + article {
   article header { background: none; padding-bottom: 0; }
   article h1 {
     font-size: 2.2em;
-    a { color: inherit; &:hover { color: $link-color-hover; } }
+    a { color: inherit; &:hover { color: $link-color; } }
   }
   a[rel=full-article] {
     background: darken($main-bg, 5);
     display: inline-block;
-    padding: .4em .8em;
+    padding: .3em .6em;
     margin-right: .5em;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
     text-decoration: none;
     color: mix($text-color, $text-color-light);
     @extend .serif;
     @include transition(background-color .5s);
     &:hover {
-      background: $link-color-hover;
+      background: $link-color;
       text-shadow: none;
       color: $main-bg;
     }

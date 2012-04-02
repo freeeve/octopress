@@ -1,7 +1,9 @@
+#blog-archives h1 a {
+  color:#D3DAC3; 
+}
 table.board-moves tbody tr td {
   vertical-align: top;
 }
-
 table.board-moves tbody tr td span.acknowledgement {
   font-size:14px;
 }
@@ -16,9 +18,6 @@ div.ct-nav-buttons img {
 }
 body > header {
   background-color: #15445c;
-}
-body, a:visited, a:hover, a:active {
-  color: #D3DAC3;
 }
 body > header h1 a, body > header h1 a:visited, body > header h1 a:hover {
   color: #D7715C;
