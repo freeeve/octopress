@@ -3,7 +3,7 @@ layout: post
 title: "Arlington CC Ladder Game: 11/19/2010"
 date: 2010-11-19 00:47
 comments: true
-categories: chess
+categories: ['chess','black','win']
 ---
 I was black this game. The opening didn't work very well for me--I shouldn't have taken that pawn on b2. My queen got chased around while white develops all his pieces. I'm also almost forced to give up my king's ability to castle. I got lucky several times, but mainly when he made a mistake on move 18, allowing me to semi-fork him. Material is still even until a bit later, but at least that mistake kept me from losing material. His second big mistake seemed to be when he pushed the d pawn, allowing me to take e5. It basically loses the two pawns there, with no gain.
 {{ "/images/saroj-chintukrindi-wes-freeman-11-19-2010.pgn" | chessgame }}

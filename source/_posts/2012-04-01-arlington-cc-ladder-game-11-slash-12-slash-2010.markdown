@@ -3,7 +3,7 @@ layout: post
 title: "Arlington CC Ladder Game 11/12/2010"
 date: 2010-11-12 00:47
 comments: true
-categories: chess
+categories: ['chess','black','win']
 ---
 Me playing black. 
 {{ "/images/rob-opfer-wes-freeman-11-12-2010.pgn" | chessgame }}

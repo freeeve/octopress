@@ -3,7 +3,7 @@ layout: post
 title: "Chess with Friends: Wes vs Eddie (2/16/2012)"
 date: 2012-02-17 21:33
 comments: true
-categories: 
+categories: ['chess','white','loss','correspondence']
 ---
 My little brother beat me. A good game, although we both made plenty of mistakes.
 {{ 'http://wes.skeweredrook.com/images/wes-vs-eddie.pgn' | chessgame }}

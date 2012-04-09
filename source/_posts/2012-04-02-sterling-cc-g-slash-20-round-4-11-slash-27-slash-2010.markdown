@@ -3,7 +3,7 @@ layout: post
 title: "Sterling CC G/20 Round 4: 11/27/2010"
 date: 2010-11-27 01:07
 comments: true
-categories: 
+categories: ['chess','black','quick','loss']
 ---
 I was black this game. The opening didn't work out very well for me, as I let my queen get chased around without developing a lot of my minor pieces. On move 8, Crafty says I should have castled instead of trying to chase away the knight. I saw the immediate threat of something like e5 (chasing my knight away), and then Nd5, double attacking the c7 square, so I knew I needed to knock out that knight on b5. 
 {{ "/images/dino-obregon-wes-freeman-11-27-2010.pgn" | chessgame}}

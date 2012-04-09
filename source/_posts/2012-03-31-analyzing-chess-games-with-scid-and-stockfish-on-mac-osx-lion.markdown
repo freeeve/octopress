@@ -10,13 +10,13 @@ I recently acquired a macbook pro, and have been thoroughly enjoying it in all a
 * Download Scid from http://scid.sourceforge.net/download.html
 * Download Stockfish from http://www.stockfishchess.com/download/
 <!--more-->
-* As is fairly common with Mac OSX, Scid is a simple drag-to-Applications install.
-* Stockfish needs to be unzipped and moved to a known location. I copied the 64-bit executable to /Applications/
+* As is fairly common with Mac OSX, Scid is a simple drag-to-Applications install.  
+* Stockfish needs to be unzipped and moved to a known location. I copied the 64-bit executable to /Applications/ 
 * Run Scid (it should be in your Applications), and go to the Tools->Analysis Engine menu item. 
 {% img /images/scid1.png %}
-* Click New in the Analysis Engine window.
+* Click New in the Analysis Engine window.  
 {% img /images/scid2.png %}
-* Configure Stockfish by entering the name Stockfish, and selecting the executable (which I copied to Applications).
+* Configure Stockfish by entering the name Stockfish, and selecting the executable (which I copied to Applications).  
 {% img /images/scid3.png %}
-* Click OK, and select Stockfish as your engine. It should begin to analyze the current position. I usually crank up the number of top variations to 5.
+* Click OK, and select Stockfish as your engine. It should begin to analyze the current position. I usually crank up the number of top variations to 5.  
 {% img /images/scid4.png %}

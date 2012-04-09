@@ -3,7 +3,7 @@ layout: post
 title: "Sterling CC G/20 Round 1: 11/27/2010"
 date: 2010-11-27 01:06
 comments: true
-categories: 
+categories: ['chess','quick','black','loss']
 ---
 I was black this game. I managed to get his rook and two pawns before he tricked me into a mate in 2 with his attack. I actually let crafty play the game through after, one move before the mate in 2, and it ended up a draw after 129 moves, me with an extra pawn and each with a bishop and rook, but the bishops were aligned just right (and were opposite color), so no progress could be made. I think I was up on time by about 6-7 minutes, so maybe I would have survived long enough to win on time, if I had made the right move.
 {{ "/images/steve-bridges-wes-freeman-11-27-2010.pgn" | chessgame}}

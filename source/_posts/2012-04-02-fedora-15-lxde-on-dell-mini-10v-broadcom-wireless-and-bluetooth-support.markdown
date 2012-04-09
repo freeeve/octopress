@@ -5,7 +5,9 @@ date: 2011-06-02 01:28
 comments: true
 categories: ["linux","fedora"]
 ---
-So, I decided to finally get rid of the old Ubuntu that came with my Dell Mini 10v, which has been complaining about not being to upgrade for about the last 18 months--I guess Dell took down the RPM servers they had put up for their release of Ubuntu.
+So, I decided to finally get rid of the old Ubuntu that came with my Dell Mini 10v,
+ which has been complaining about not being able to upgrade for about the last 18 months--I guess Dell took down the RPM servers they had put up for their release of Ubuntu.
+Thanks, Dell. :(
 <!--more-->
 The rpmfusion packages need to be installed, and then the broadcom wl driver needs to be installed, through the following commands:
 <pre style="white-space: pre-wrap; word-wrap: break-word;">yum localinstall --nogpgcheck http://download1.rpmfusion.org/free/fedora/rpmfusion-free-release-stable.noarch.rpm

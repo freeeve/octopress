@@ -3,7 +3,7 @@ layout: post
 title: "Kingstowne Game 2: 11/13/2010"
 date: 2010-11-13 00:36
 comments: true
-categories: chess
+categories: ['chess','white','loss']
 ---
 Me as white. Losing badly out of the opening.
 {{ "/images/wes-freeman-alan-coulter-11-13-2010.pgn" | chessgame }}<!--more-->

@@ -3,7 +3,7 @@ layout: post
 title: "Fairfax Open Round 2: 12/4/2010"
 date: 2010-12-04 01:18
 comments: true
-categories: 
+categories: ['chess','white','win']
 ---
 I was white this game. I've posted crafty's recommended variations in here, highlighted in blue. I played some tricky tactics early in the game, although I didn't quite play them correctly, according to crafty, my opponent didn't see the proper moves to defend.
 <!--more-->

@@ -3,7 +3,7 @@ layout: post
 title: "Fairfax Open Round 3: 12/5/2010"
 date: 2010-12-05 01:19
 comments: true
-categories: chess
+categories: ['chess','black','loss']
 ---
 I was black this game. I haven't played against 1. c4 very much at all, so it was interesting to see in a tournament setting. It became even more interesting when it turned into sort of a gambit as white gives up a pawn to put on some queenside pressure. Crafty says I should have moved 7. ... Bf4 as soon as he moved 7. Qc2, rather than waiting a move with 7. ... a6. I moved a6 because I saw where 8. Nxb5 cxb5 was leading, and I didn't like it, so I wanted to defend b5 again. However, Bf5 would have accomplished the same thing. I liked the fact that his knight was going to be stuck on a3 for quite some time with this arrangement, save moving twice to get out to c3.
 {{"/images/jeremy-knox-wes-freeman-12-5-2010.pgn"|chessgame}}

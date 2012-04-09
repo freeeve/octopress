@@ -3,7 +3,7 @@ layout: post
 title: "Migrating to Octopress"
 date: 2012-04-01 12:41
 comments: true
-categories: octopress
+categories: ['octopress','blogging','mongopress']
 ---
 So, after giving Mongopress a shot for a few months, I realized that if it's painful to make blog posts, you don't make them. <!--more-->
 I thought Mongopress was a great idea, and I still think it is, but the current state of the project isn't usable enough. Nearly 6 months

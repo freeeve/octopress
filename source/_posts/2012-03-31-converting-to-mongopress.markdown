@@ -3,7 +3,7 @@ layout: post
 title: "Converting to Mongopress"
 date: 2011-12-11 21:24
 comments: true
-categories: 
+categories: ['mongopress','mongodb','blogging']
 ---
 I'm currently in the process of converting my blog to mongopress (a mongodb alternative to wordpress). I think it is an excellent idea, and even considered writing something myself several times, but I've got a lot on my plate--I was excited when I heard someone had started work on it.
 <!--more-->
