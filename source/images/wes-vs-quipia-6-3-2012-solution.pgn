@@ -1,0 +1,21 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2012.06.04"]
+[Round "?"]
+[White "wefreema"]
+[Black "quipia"]
+[Result "0-1"]
+[WhiteElo "1336"]
+[BlackElo "1479"]
+[TimeControl "10|0"]
+[Termination "quipia won by checkmate"]
+
+1.e4 e6 2.Nf3 g6 3.d4 Bg7 4.Nc3 Nc6 5.Bb5 Nge7 6.Bxc6 Nxc6 7.O-O O-O 8.Bg5
+Qe8 9.Qd2 e5 10.d5 Nd4 11.Bh6 Nxf3+ 12.gxf3 d6 13.Bxg7 Kxg7 14.Qg5 f5 15.
+Kh1 f4 16.Rg1 c6 17.Qh5 Kg8 18.Rg5 Rf7 19.Rag1 Rg7 20.Qh6 Qf7 21.R1g2 Bd7 
+22.Ne2 cxd5 23.Ng1 d4 24.b3 Rc8 25.h4 Rxc2 26.h5 Be8 27.Rh2 Qf6 28.Rg4 
+Rxa2 29.hxg6 Bxg6 30.Nh3 Ra1+ 31.Kg2 d3 32.Ng5 d2 33.Nxh7 Bxh7 34.Qxf6 
+Rxg4+ 35.fxg4 Rg1+ 36.Kxg1 d1=Q+ 37.Kg2 Qxg4+ 38.Kf1 Qd1+ 39.Kg2 Bxe4+ 40.
+Kh3 Qh5+ 41.Qh4 Bf5+ 42.Kg2 Qg6+ 43.Kf1 Bd3+ 44.Ke1 Qe4+ 45.Kd2 Qe2+ 46.
+Kc3 Qc2+ 47.Kb4 Qc5+ 48.Ka4 Bb5+ 49.Ka5 b6# 0-1
+

@@ -1,0 +1,15 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2012.06.04"]
+[White "jtwentworth"]
+[Black "wefreema"]
+[Result "1-0"]
+[WhiteElo "1148"]
+[BlackElo "1334"]
+[TimeControl "10|0"]
+[Termination "jtwentworth won by checkmate"]
+
+1.e4 g6 2.d4 Bg7 3.e5 c5 4.Nf3 Nc6 5.d5 Nxe5 6.Nxe5 Bxe5 7.Bc4 Qa5+ 8.Bd2 Qa4 9.b3 Qxc4 10.bxc4 Bxa1
+ 11.c3 Nf6 12.Na3 Bb2 13.Nb5 Kd8 14.Qc2 a6 15.Qa4 Ne4 16.Qa5+ Ke8 17.Nc7+ Kf8 18.Nxa8 d6 19.Bh6+ Kg8 20.Qd8#
+ 1-0
+

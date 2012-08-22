@@ -124,9 +124,9 @@ module OctopressLiquidFilters
   # Returns a title cased string based on John Gruber's title case http://daringfireball.net/2008/08/title_case_update
   def titlecase(input)
     input.titlecase
-  end
+  end  
 
-  def chessgame(input)
+  def chessgame(input, moveToEnd = false)
     input =~ /[^\/](?:(?!\/).)*?\./
     game = $&
     game.chop!
@@ -138,7 +138,8 @@ jQuery.getScript('http://chesstempo.com/js/pgnyui.js', function() {
       boardName: '#{game}',
       pgnFile: '#{input}',
       pieceSet: 'merida',
-      pieceSize: 46
+      pieceSize: 46,
+      gotoEndOnRefresh: #{moveToEnd}
     }
   );
   });

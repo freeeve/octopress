@@ -1,0 +1,11 @@
+---
+layout: page
+title: "chess.com tactics solution 6-4-2012"
+date: 2012-06-05 02:32
+comments: true
+sharing: true
+footer: true
+---
+Solution to tactics problem. 9. b3 -- a simple pawn push and the queen is trapped! Things went down hill fast after that--I probably could have delayed the inevitable a little longer.
+
+{{ "/images/jtwentworth-vs-wes-6-4-2012-solution.pgn" | chessgame}}
