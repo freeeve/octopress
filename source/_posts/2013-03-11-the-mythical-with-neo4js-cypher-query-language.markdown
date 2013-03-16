@@ -108,3 +108,5 @@ RETURN anyone;
 No, this doesn't actually work. As soon as you create one, the `WHERE cnt = 0` no longer comes back as true. In 2.0 a conditional expression similar to SQL's `case/when` syntax will help us get there. It might even be solved with a better `create unique` syntax with labels. Until then, you might have to make two queries--one to `create` (conditionally), and one to `return`.
 
 Ok, I guess that's enough rambling for now. Maybe I'll have a part 2 for `with` later.
+
+If you want to see more Cypher stuff, check out my [Cypher page](/cypher).

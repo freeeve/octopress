@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cypher: it all starts with the START"
+title: "Cypher basics: it all starts with the START"
 date: 2013-03-14 23:39
 comments: true
 categories: [neo4j, cypher, programming]
@@ -103,7 +103,8 @@ return *;
 ```
 </div>
 
-That's probably enough on `start` for now. I left out non-auto indexes, but really they work basically the same as auto indexes while querying in `start`. And, I totally left out the fact that you can also specify `relationships` in the `start` clause, which is sometimes a handy feature, although I've found limited use for it in my queries. Oh, one tidbit I learned about lucene is that it can only handle 512 terms in a single `OR` list. Kind of lame if you're trying to match a big list of ids--you end up needing to do multiple queries in batches of 512. I think this limit was actually increased in the latest versions of lucene, so maybe when Neo4j upgrades its lucene backend, we'll be pleasantly surprised with a higher limit.
+That's probably enough on `start` for now. I left out non-auto indexes, but really they work basically the same as auto indexes while querying in `start`. And, I totally left out the fact that you can also specify `relationships` in the `start` clause, which is sometimes a handy feature, although I've found limited use for it in my queries. Oh, one tidbit I learned about lucene is that it can only handle 512 terms in a single `OR` list. Kind of lame if you're trying to a big list of lookups--you end up needing to do multiple queries in batches of 512. I think this limit was actually increased in the latest versions of lucene, so maybe when Neo4j upgrades its lucene backend, we'll be pleasantly surprised with a higher limit.
 
 **Don't forget to use parameters in your Cypher queries to boost your perfomance!**
 
+If you want to see more Cypher stuff, check out my [Cypher page](/cypher).
