@@ -5,7 +5,8 @@ date: 2013-03-16 14:24
 comments: true
 categories: [cypher, neo4j, programming]
 ---
-We've got a tree structure with parents and children, and we want to figure out, starting from two children, which ancestor is the most recent common ancestor (MRCA). Let's start by constructing an example (I usually just type this out into the console!). Let's make an example graph. The root will be the common ancestor of all the others, so we'll always get an answer in this case.
+We've got a tree structure with parents and children, and we want to figure out, starting from two children, which ancestor is the most recent common ancestor (MRCA). Let's start by constructing an example graph (I usually just type this out into the console!). The root will be the common ancestor of all the others, so we'll always get an answer in this case.
+<!-- more -->
 
 <div>
 <a target="_blank" style="position:absolute;right:100px" href="http://console.neo4j.org/r/jp1rlt">See it in the console</a>
