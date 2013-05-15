@@ -11,6 +11,7 @@ I decided to post some tutorials about Cypher, the new Neo4j query language. Thi
 
 ### Introductory
 * [Cypher basics: it all starts with the START](/cypher-it-all-starts-with-the-start/)
+* [Cypher 2.0: it doesn't all start with the START](/cypher-it-doesnt-all-start-with-the-start/)
 * [Cypher basics: Matching Traversal Patterns with MATCH](/cypher-matching-traversal-patterns-with-match/)
 * [The Mythical WITH](/the-mythical-with-neo4js-cypher-query-language/)
 
